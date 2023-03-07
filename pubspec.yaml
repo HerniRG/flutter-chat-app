@@ -24,6 +24,7 @@ dependencies:
   cupertino_icons: ^1.0.5
   flutter:
     sdk: flutter
+  pull_to_refresh: ^2.0.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
